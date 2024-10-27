@@ -6,7 +6,7 @@
 ## Setup Instructions
 
 ## Step 1: Clone the Repository
-- git clone <repo-link>
+- git clone <https://github.com/marvensherif/3d_face_reconstruction_Facial_expression_transfer-UNING-DEEP3FACES>
 
 ## Step 2: Download Required Models
 - Download 01_MorphableModel.mat : <https://faces.dmi.unibas.ch/bfm/main.php?nav=1-2&id=downloads>
